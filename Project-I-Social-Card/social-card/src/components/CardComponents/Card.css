@@ -1,1 +1,22 @@
 /* All styles for your Card Components live here */
+.card {
+    width: 750px;
+}
+
+.card-banner img {
+    max-width: 86%;
+    margin-left: 100px;
+}
+
+.content {
+    border: 1px solid #eaeaea;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 3px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
