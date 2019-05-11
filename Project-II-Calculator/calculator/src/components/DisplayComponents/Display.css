@@ -1,0 +1,22 @@
+.calc-display {
+    margin-top: 20px;
+}
+
+.container {
+text-align: center;
+width: 500px;
+}
+.calc-row {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: stretch;
+}
+.div-clear {
+    flex-direction: row;
+}
+input {
+    width: 51%;
+    height: 6rem;
+    /* border-radius: 0.5rem; */
+}
