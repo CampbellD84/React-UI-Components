@@ -7,7 +7,7 @@ const CalculatorDisplay = () => {
     return (
         <div className="calc-display">
             <div className="container">
-                <input></input>
+                <div className="display-num">0</div>
                 <div className="calc-row div-clear">
                     <ActionButton actionBtnStyle="btn-act" text ="clear"/>
                     <NumberButton btnStyle="btn-op"text="&divide;" />

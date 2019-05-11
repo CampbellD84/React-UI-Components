@@ -15,8 +15,19 @@ width: 500px;
 .div-clear {
     flex-direction: row;
 }
-input {
+/* input {
     width: 51%;
     height: 6rem;
     /* border-radius: 0.5rem; */
+/* } */
+
+.display-num {
+    width: 51%;
+    height: 6rem;
+    background-color: #383737;
+    color: #fff;
+    margin: 0 auto;
+    font-size: 4rem;
+    text-align: right;
+    line-height: 1.8;
 }
