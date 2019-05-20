@@ -1,0 +1,70 @@
+/* button {
+    border-radius: 0.5rem;
+    background-color: #eaeaea;
+    color: @porcelain;
+    border: 0;
+    font-size: 1.6rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-decoration: none;
+    padding: 0.25rem 0.5rem;
+    margin: 0.25rem;
+    width: 30%;
+    height: 3.5rem;
+} */
+
+.btn-num {
+    font-weight: bold;
+    color: #000;
+    background-color: #eaeaea;
+    /* border-radius: 0.5rem; */
+    color: #000;
+    border: 0;
+    font-size: 1.6rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-decoration: none;
+    padding: 0.25rem 0.5rem;
+    margin: 0.25rem;
+    width: 6rem;
+    height: 3.5rem;
+}
+
+.btn-op {
+    font-weight: bold;
+    color: #fff;
+    background-color: #A0001E;
+    /* border-radius: 0.5rem; */
+    border: 0;
+    font-size: 1.6rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-decoration: none;
+    padding: 0.25rem 0.5rem;
+    margin: 0.25rem;
+    width: 6rem;
+    height: 3.5rem;
+}
+
+.btn-act {
+    width: 19rem;
+    /* border-radius: 0.5rem; */
+    background-color: #eaeaea;
+    color: #000;
+    border: 0;
+    font-size: 1.6rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    line-height: 1.2;
+    white-space: nowrap;
+    text-decoration: none;
+    padding: 0.25rem 0.5rem;
+    margin: 0.25rem;
+    height: 3.5rem;
+}

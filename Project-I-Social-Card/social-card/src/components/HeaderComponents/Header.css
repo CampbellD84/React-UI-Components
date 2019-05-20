@@ -1,1 +1,41 @@
 /* All styles for your header Components live here */
+.header-title {
+    margin-left: 100px;
+}
+
+.header-title h4 {
+    display: inline;
+}
+
+
+.header-title span p {
+    display: inline;
+    margin-left: 10px;
+    color: #8e8e8e;
+    font-weight: normal;
+}
+
+/* .header-content {
+    margin-left: 550px;
+
+} */
+
+.header-content p {
+    margin-left: 100px;
+}
+
+.avatar {
+    margin-top: 3px;
+    margin-left: -8px;
+    width: 73px;
+    height: 73px;
+    float: left;
+    position: absolute;
+    border-radius: 10%;
+}
+
+.avatar img {
+    width: 73px;
+    height: 73px;
+    margin: 10px;
+}
